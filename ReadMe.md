@@ -22,7 +22,7 @@ This script modifies **user policies only** and cannot modify device-level polic
 
 ### Temporary (Lost on Reboot)
 ```bash
-curl -Ls https://raw.githubusercontent.com/YOUR_USERNAME/PolicyEditor/main/PolicyEditor.sh | sudo bash
+curl -Ls https://raw.githubusercontent.com/GamerRyker/Policy-Editor/refs/heads/main/PolicyEditor.sh | sudo bash
 ```
 
 ### Permanent (Requires RootFS Disabled)
