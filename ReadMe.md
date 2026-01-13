@@ -112,3 +112,6 @@ If you encounter issues:
 
 **Made with ❤️ for Chrome OS freedom**
 ```
+
+**NOTE: WE ARE NOT RESPONSIBLE FOR ANY DAMAGES OR ISSUES THIS MAY CAUSE TO YOUR CHROMEBOOK. USE AT YOUR OWN DISCRETION
+**
