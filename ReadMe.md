@@ -65,7 +65,7 @@ curl -Ls https://raw.githubusercontent.com/GamerRyker/Policy-Editor/refs/heads/m
 ## 📋 Usage
 
 1. Open VT-2 terminal: Press `Ctrl + Alt + F2` (or `Ctrl + Alt + →`)
-2. Login as `chronos` or `root`
+2. Login as root
 3. Run the installation command above
 4. Follow the prompts
 5. Wait for Chrome UI to restart
