@@ -93,7 +93,7 @@ This tool is for educational purposes. Use responsibly and only on devices you o
 
 ## 📜 License
 
-GPL-3.0 License - Same as Pollen
+MIT License - Same as Pollen
 
 ## 🙏 Credits
 
