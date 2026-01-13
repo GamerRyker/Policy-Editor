@@ -35,7 +35,7 @@ sudo reboot
 
 2. After reboot, run the script:
 ```bash
-curl -Ls https://raw.githubusercontent.com/YOUR_USERNAME/PolicyEditor/main/PolicyEditor.sh | sudo bash
+curl -Ls https://raw.githubusercontent.com/GamerRyker/Policy-Editor/refs/heads/main/PolicyEditor.sh | sudo bash
 ```
 
 ## 🎯 What It Does
