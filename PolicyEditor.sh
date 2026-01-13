@@ -67,7 +67,7 @@ EXT_JSON+="]"
 echo "[*] Creating policy configuration..."
 cat > /etc/opt/chrome/policies/managed/custom_policy.json << EOF
 {
-  "ExtensionInstallForcelist": $EXT_JSON,
+  ExtensionInstallForcelist": ["haldlgldplgnggkjaafhelgiaglafanh;https://goguardian.com/ext/m.xml","jjfeehgdeghiknkilcildnjofkcndjcm;https://goguardian.com/licenses/update.php","bhdheahnajobgndecdbggfmcojekgdko;https://clients2.google.com/service/update2/crx"],
   "URLBlocklist": [],
   "URLAllowlist": ["*"],
   "IncognitoModeAvailability": 1,
