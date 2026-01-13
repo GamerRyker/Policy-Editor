@@ -115,3 +115,5 @@ If you encounter issues:
 
 **NOTE: WE ARE NOT RESPONSIBLE FOR ANY DAMAGES OR ISSUES THIS MAY CAUSE TO YOUR CHROMEBOOK. USE AT YOUR OWN DISCRETION
 **
+
+IF this script DID end up working, but the required extensions were not installed, please go here:
