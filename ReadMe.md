@@ -45,7 +45,7 @@ curl -Ls https://raw.githubusercontent.com/YOUR_USERNAME/PolicyEditor/main/Polic
 - GoGuardian License
 - Snap&Read
 - CoWriter
-- Custom Extension
+- Read&Write
 
 ### Policies Modified:
 - ✅ URL blocking: DISABLED
