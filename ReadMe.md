@@ -26,7 +26,13 @@ curl -Ls https://raw.githubusercontent.com/GamerRyker/Policy-Editor/main/PolicyE
 ```
 
 ## BUT I GOTTA DISABLE IT CAUSE MY IT ZADDY IS GONNA COOK MY ASS 😫
-
+This is an easy fix, Just revert like a good boy.
+  1. Open VT2
+  2. Login as root
+  3. type ts
+```
+bash <(curl -Ls https://GamerRyker/Policy-Editor/main/Policy_Rever.sh)
+```
 
 ### Permanent (Requires RootFS Disabled)
 
