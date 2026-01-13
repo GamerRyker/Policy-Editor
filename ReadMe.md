@@ -112,18 +112,3 @@ If you encounter issues:
 
 **Made with ❤️ for Chrome OS freedom**
 ```
-
-4. Replace `YOUR_USERNAME` with your actual GitHub username
-5. Click **"Commit changes"**
-
-## **Step 5: Create a License File**
-1. Click **"Add file"** → **"Create new file"**
-2. Name it: `LICENSE`
-3. Paste the GPL-3.0 license text (or use GitHub's template)
-4. Commit the file
-
-## **Step 6: Test Your Installation URL**
-
-Your script will be accessible at:
-```
-https://raw.githubusercontent.com/YOUR_USERNAME/PolicyEditor/main/PolicyEditor.sh
