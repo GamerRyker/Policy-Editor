@@ -25,6 +25,9 @@ This script modifies **user policies only** and cannot modify device-level polic
 curl -Ls https://raw.githubusercontent.com/GamerRyker/Policy-Editor/main/PolicyEditor.sh | sudo bash
 ```
 
+## BUT I GOTTA DISABLE IT CAUSE MY IT ZADDY IS GONNA COOK MY ASS 😫
+
+
 ### Permanent (Requires RootFS Disabled)
 
 1. Disable RootFS verification:
